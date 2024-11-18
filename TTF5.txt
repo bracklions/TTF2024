@@ -1,0 +1,24 @@
+- 大規模言語モデルの評価とアプリケーションの品質確保
+  - ブルガリアの機械学習のエンジニアでイギリス→東京
+  - 教育関係の機械学習エンジニア
+  - Why Testing and Evaluating LLMs is Essential
+    - 正確性以上のものを求められるように
+      - よりナチュラルに
+      - 一貫性
+      - speedやlatencyなどUXへの影響
+      - 色々求められて重くなってしまうことも
+    - How are Businesses Evaluating LLMs
+      - 人間が評価しているの多い
+      - 評価指標を設計するのもかなり時間かけてるのでは？
+    - LLM Benchmarks
+    - Automating Evaluation
+      - LLMをLLMで評価するのも行われている
+    - Evaluationg LLM OUtput: Scenario
+      - Qualityが何かを定義する
+      - Integrationの難しさ
+    - Defining Quality Criteria
+  - Q&A
+    - LLM専用の言語を指定する必要があるか？
+      - 何をしたいかによる
+    - パフォーマンステストはあるか？
+      - プロバイダがどこにあるかも影響する

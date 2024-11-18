@@ -1,0 +1,25 @@
+- モダンQAエンジニアのセキュリティテスト
+  - A New Chapter in QA History: The DevsecOps Era
+    - アプリ攻撃が86%増加
+    - How Is Security Relevant to QA?
+      - QAは好奇心の高いユーザー、セキュリティは攻撃的なユーザーの観点から
+    - Security vs QA Testing
+    - QA Testing in the DevSecOps Team
+      - QA対Developterは一般的に1:4
+      - QAはサイクルの全てに関わっている
+    - Security Testing in the DevSecOps Team
+      - 1:100
+      - QAと似ている
+    - Summary So Far
+  - Basics in Security Testing; for Qa Engineers
+    - Shifting Your Mindset
+      - 攻撃者として行う
+  - Learning Resources and Career Growth
+    - QAは応用が効くスキル
+    - The Transition to Security
+  - Q&A
+    - 4年も学習せずすぐ転向するには？
+      - 認定を取ってみる
+    - 悪意のある入力とは？
+      - 時間はかかるが、マインドセットを攻撃者に変えて
+      - 脆弱性について調べて理解を深める

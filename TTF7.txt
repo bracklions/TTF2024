@@ -1,0 +1,30 @@
+- E2Eテスト自動化の健全性を定量化する
+  - Health Score of Ent-to-End Test Automation
+    - MagicPodはユーザーの利用継続率
+    - HealthScoreの定義
+      - 100ユーザー(解約済み含む)にヒアリング
+    - ユーザー自身もHealthScore見られる
+  - Breakdown of the Health Score
+    - HealthScoreの詳細
+      - 1.充分な数のテストがあるか (6pts)
+      - 2.充分な数のメンバーがいるか (3pts)
+        - 4人以上
+      - 3.共有ステップを活用しているか (8pts)
+      - 4.1つのテストが長すぎないか (5pts)
+      - 5.テストが安定するロケーターを使っているか (8pts)
+        - 複雑なロケーターはテストの安定を妨げる
+      - 6.テストを1日1回以上実行しているか (35pts)
+      - 7.テストの失敗率が高すぎないか (35pts)
+        - 90%以上なら満点
+  - Improving the Health Score
+    - 1.Project structure
+      - 内省と外注の組み合わせが影響する
+    - 2.Lack of invlvement from developers
+      - 開発者が関与してないと自動化が難しい
+    - 3.Over-reliance on End-to-End test Automation
+  - Q&A
+    - 20以上のユーザーストーリーが充分な量とした理由
+      - 経験上、ビジネス的に考えたサイズ感
+    - MagicPodの売り上げを上げるためにHealhScoreを設定しない？
+      - 顧客の満足度を上げるためのもの
+      - 定量的に見せた方がいいと思って

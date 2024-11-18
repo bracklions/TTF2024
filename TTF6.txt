@@ -1,0 +1,25 @@
+- 良いから素晴らしいへ:　品質コンサルタントとして役割を進化させる
+  - The Quality Consultant
+  - Potential Career Paths
+    - Role & Skillset
+      - 外部のコンサル
+        - ステークホルダーと関与する・束ねる
+    - 自分の興味があるところをストレッチする
+  - Test Pyramids
+    - シフトレフトアプローチして正常な形に戻るように
+  - Pipeline Integration
+    - Pipelineの目的はコードを本番にリリースする
+    - Quality & Integration to Pipelines
+      - 全員がテストフィーチャーを理解して共通認識でテストできる
+      - 今後UI部分だけになっていく
+  - Transitioning to SDET and/or Quality Consultant
+  - Q&A
+    - QAマネージャーやQAコンサルタントの間の関係は
+      - マネジメントや自動化フレームワークも必要、アーキテクト、やりたいこと
+    - QAコンサルタントのアウトカムとは？
+      - 100%qualityのプロ、qulityは全員が意識する必要がある、他の人の業務を助ける
+    - コンサルタントの目線からして成功や価値の付加とは？
+      - できるだけ短い期間でできるだけ多くの適切なテストを実施
+      - 今あるキャパで大きな影響を与える
+    - 日々どんな感じで仕事している？
+      - eコマース関連で

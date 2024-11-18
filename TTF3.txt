@@ -1,0 +1,40 @@
+- 最大限の品質を最小限のテスターで
+  - QA19年、アジャイル17年、eコマースが多い
+  - 以前の開発でQA/Testがボトルネックになっていた
+  - スクラムチームは9人くらい、QAは2人くらい、バランスおかしい
+  - 別の視点で
+    - Goalkeepers 世界で一番強いキーバーが強いチームにいるとは限らない、失点を防ぐのはキーバーだけの役割ではない
+  - Holistic QUality Mindset
+    - 組織の中で品質は何を意味しているのか、品質のコーチになる
+    - Flatten the hill 負荷のレベル
+      - どうやったら
+        - Our friends in holistic quality
+          - 人
+          - 自動化
+          - AI
+        - Shift left
+          - quality in = quality out
+          - 同じ言語で話ができているか
+          - アラインメント
+          - 早いフィードバック
+          - V字モデル重要
+        - Shifting lest - Top 3 priorities
+        - Shift right
+          - 失敗してもいい環境
+            - フィーチャーフラグとかも
+          - デバッグを容易に
+            - いつ失敗するのかどこで失敗するのか
+          - 失敗から学ぶ
+        - Shifting right - Top 3 priorities
+          - Recovery / roll-back plan
+          - Metrics & analitics
+            -　いつどこで失敗したのか
+          - Feature flags
+  - Q&A
+    - テスト設計で生成AIをどのように使ってシフトレフト？
+      - 生成AIあってもなくても
+    - シフトライトに重要なメトリクスは？
+      - eコマースであれば
+        - 売り上げやリリースの後どんなことがあったか、新しいマーケティングの結果、ユーザーが何をするのか
+    - QAコーチングモデルの中で使える割合いは？
+      - スクラムチームには同じくらいの人が入って伝えていく
